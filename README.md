@@ -1,6 +1,6 @@
 Shows a list of phone numbers served by json-server form db.json file
 
-## TO RUN LOCALY
+## To Run Locally
 
 ### npm install
 ### npm install -g json-server
@@ -8,7 +8,7 @@ Shows a list of phone numbers served by json-server form db.json file
 ### npm start
 ### http://localhost:3000
 
-## TO REBUILD SOURCEMAPS
+## To Rebuild Sourcemaps
 
 ### npm run build
 ### npm start
