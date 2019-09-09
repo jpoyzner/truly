@@ -1,0 +1,21 @@
+
+body {
+	background: lightblue;
+
+	.contacts-page {
+		.filter{
+			 margin: 10px;
+		}
+		
+		.contact-item {
+			background: white;
+			border-radius: 5px;
+			margin: 10px;
+			padding: 10px;
+
+			&.error {
+				background: red;
+			}
+		}
+	}
+}
